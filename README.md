@@ -1,2 +1,2 @@
 # PythonBasics
-Just a part of me beginning to learn Python
+Just the beginning of me trying to learn to code in Python.
